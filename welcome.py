@@ -3,5 +3,3 @@ print('welcome to python programming language')
 num = int (input ("Enter any number to test whether
 if (num % 2) == 0:
               print ("The number is even")
-else
-         print ("The number is odd")
